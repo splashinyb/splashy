@@ -1,2 +1,2 @@
 # splashy
-poopoopeepee
+describe
